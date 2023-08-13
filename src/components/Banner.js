@@ -1,5 +1,3 @@
-import styles from "./styling.css";
-
 export function Banner () {
     return (
         <header>
